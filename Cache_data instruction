@@ -1,2 +1,3 @@
 # Since my cache-data is so large that I cannot upload my file into the Github. I just upload it to my Google Drive. And I will
-# share my link to you. My file contains two folders: 1. cache_data (what I used in my project) 2. photo( I just crawl them but I don't use it in my project)
+# share my link to you. My file contains:1. cache_data (what I used in my project) 2. photo( I just crawl them but I don't use it in my project)So I will not upload the photo, which has more than 1400 items.But my code in crawling.py has the function to crawl the photo.
+# cache_data file link: https://drive.google.com/file/d/1ryXvXtoGgrhcHhBHw4_ZPMQ1TVnhxHyO/view?usp=sharing
